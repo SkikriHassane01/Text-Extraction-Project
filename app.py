@@ -3,7 +3,9 @@ import pytesseract as ocr
 from PIL import Image
 import numpy as np
 import streamlit as st
+import os 
 
+os.environ.get('PORT', 8501)
 
 st.title("Text Extraction Application")
 st.subheader("upload your image bellow please")
