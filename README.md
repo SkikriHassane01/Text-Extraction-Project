@@ -1,4 +1,6 @@
 ## Text Extraction Project
+
+![result image](result.png)
 Text detection and extraction are important tasks in computer vision and natural language processing. They are commonly used in many applications such as optical character recognition (OCR), document analysis, and text recognition in images and videos.
 
 
